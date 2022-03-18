@@ -17,4 +17,4 @@ Newolfdark is here !
 ![](https://img.shields.io/badge/MongoDB-%2343853D?style=for-the-badge&logo=mongodb&logoColor=white&color=47A248)
 
 ## 📊 Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Newolfdark&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Newolfdark&count_private=true)
